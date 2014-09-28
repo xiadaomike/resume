@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  15 SEP 2014 20:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  26 SEP 2014 20:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1181,22 +1181,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--45
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 48.
+(Font)              <10.95> on input line 47.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 48.
+(Font)              <8> on input line 47.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 48.
+(Font)              <6> on input line 47.
 [1
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 105.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 105.
 
 (./yue_tian_resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 106.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 106.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 105.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 105.
 Package rerunfilecheck Info: File `yue_tian_resume.out' has not changed.
-(rerunfilecheck)             Checksum: 01C49093BCD02EF9E2155A3C051BCE82;468.
+(rerunfilecheck)             Checksum: 43F7560035E0BAF4782E3B37E28FCD12;468.
  ) 
 Here is how much of TeX's memory you used:
  26468 strings out of 493117
@@ -1214,7 +1214,7 @@ type1/public/lm/lmss8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/publi
 c/lm/lmssbx10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/lm/lms
 so10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/marvosym/marvos
 ym.pfb>
-Output written on yue_tian_resume.pdf (1 page, 140161 bytes).
+Output written on yue_tian_resume.pdf (1 page, 140101 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  59 compressed objects within 1 object stream
