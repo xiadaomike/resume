@@ -18,7 +18,7 @@
 \usepackage[utf8]{inputenc}                   % replace by the encoding you are using
 
 % adjust the page margins
-\usepackage[scale=0.85]{geometry}
+\usepackage[scale=0.90]{geometry}
 %\setlength{\hintscolumnwidth}{3cm}						% if you want to change the width of the column with the dates
 %\AtBeginDocument{\setlength{\maketitlenamewidth}{6cm}}  % only for the classic theme, if you want to change the width of your name placeholder (to leave more space for your address details
 %\AtBeginDocument{\recomputelengths}                     % required when changes are made to page layout lengths
@@ -44,14 +44,24 @@
 \maketitle
 
 \section{Skills}
-\cvline{Languages}{Python = C > Java > Ruby > C++}
-\cvline{Technologies}{ETW, Rails, MySQL, Redis, AWS, \LaTeX{}, Git, Vim, Mac OSX, Ubuntu, Windows}
+\cvline{Languages}{Python = Java > C > Ruby > C++}
+\cvline{Technologies}{ETW, Ruby on Rails, Django, Android Studio, MySQL, Redis, AWS, \LaTeX{}, Git, Vim, Mac OSX, Ubuntu, Windows}
 \section{Education}
 \cventry{2013-Present}{BA, Computer Science}{University of California,
 Berkeley}{}{}{}
-\cvline{GPA:}{\small 3.77/4.0}
+\cvline{GPA:}{\small 3.79/4.0}
 
 \section{Experience}
+\cventry{2016}{Software Developer Intern}{Google}{Waterloo, Canada}{}{
+  \begin{itemize}
+    \item Project: android client for Onhub - Google's next-generation router.
+    \item Implemented code to upgrade the app's permission model to target SDK
+      level 23.
+    \item Use security primitives (HMAC, Diffie–Hellman key exchange, etc) to
+      implement the new authentication flow on android for claiming ownership of
+      an out-of-box router.
+  \end{itemize}
+}
 
 \cventry{2015}{Software Developer Intern}{Google}{Montreal, Canada}{}{
   \begin{itemize}
@@ -87,32 +97,23 @@ University}{Cambridge, MA}{}{
   \end{itemize}
 }
 
-\section{Personal Projects}
-
-\cventry{Grue}{Event-planning app that connects university organizations with
-potential members}{}{}{}{
-  \begin{itemize}
-    \item Built the marketing website with Jquery, CSS, and HTML.
-    \item Deployed cloud code on Parse to allow email sign-ups and maintenance
-      tasks.
-  \end{itemize}
-}
-
 \section{Relevant Coursework}
-\cvline{Computer Science}{Security (taking), Database Systems (taking), Machine
-Learning, Operating Systems, Internet Architecture and Protocols, Efficient
-Algorithms and Intractable Problems, Artificial Intelligence, Structure and
-Interpretation of Computer Programs, Data Structures, Computer Architecture}
+\cvline{Computer Science}{Security, Database Systems, Machine Learning,
+Operating Systems, Internet Architecture and Protocols, Efficient Algorithms and
+Intractable Problems, Artificial Intelligence, Structure and Interpretation of
+Computer Programs, Data Structures, Computer Architecture}
 \cvline{Math}{Linear Algebra and Differential Equations, Discrete Mathematics
 and Probability Theory}
 
 \section{Honors}
-\cventry{2013}{Dean's Honor}{}{}{}{Acknowledges the academic achievement of the
+\cventry{2016}{Mathematical Contest in Modeling Meritorious
+Winner}{}{}{}{Awarded to teams whose submission ranked top 8\% among the 7421
+teams participated.}
+\cventry{2013, 2016}{Dean's Honors}{}{}{}{Acknowledges the academic achievement of the
 top 4 percent of Letters and Science students}
 \cventry{2012}{New York State Math Competition High Scorer}{}{}{}{Top 200 scorers in the state math meet}
 \cventry{2012}{American Invitational Mathematics Examination
 Qualifier}{}{}{}{Ranked top 5 percent on the AMC12 high school mathematical
 contest, qualified for AIME}
-
 
 \end{document}
